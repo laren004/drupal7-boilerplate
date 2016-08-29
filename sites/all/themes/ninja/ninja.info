@@ -1,0 +1,7 @@
+name = Ninja Base
+description = "Custom Theme Training Via MasterFlash.net Base Theme for Ninja"
+core = 7.x
+engine = phptemplate
+
+
+scripts[] = assets/js/bootstrap.min.js

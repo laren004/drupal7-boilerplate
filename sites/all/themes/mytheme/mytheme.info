@@ -1,0 +1,63 @@
+name = My Theme
+description = "Custom Theme Training Via MasterFlash.net"
+core = 7.x
+;base theme = ninja
+
+;Content is the primary region where we will place our content and still make accessible for blocks
+regions[content] = Content
+
+regions[call_us] = Call Us
+regions[social_icons] = Social Icons
+regions[menu_nav] = Menu Nav
+
+regions[logo_col_first] = Logo Col First
+regions[logo_col_second] = Logo Col Second
+
+
+regions[banner] = Banner
+regions[call_to_action] = Call to Action
+
+
+regions[top_first] = Top First
+regions[top_second] = Top Second
+regions[top_third] = Top Third
+
+regions[right_sidebar] = Right sidebar
+
+
+regions[feature_first] = Feature First
+regions[feature_second] = Feature Second
+regions[feature_third] = Feature Third
+
+
+regions[content_bottom_top] = Content Bottom Top
+regions[content_bottom_first] = Content Bottom First
+regions[content_bottom_second] = Content Bottom Second
+regions[content_bottom_third] = Content Bottom Third
+regions[content_bottom_fourth] = Content Bottom Fourth
+
+regions[promotion_first] = Promotion First
+regions[promotion_second] = Promotion Second
+regions[promotion_third] = Promotion Third
+
+
+regions[view_first] = View First
+regions[view_second] = View Second
+
+
+regions[footer_first] = Footer First
+regions[footer_second] = Footer Second
+regions[footer_third] = Footer Third
+regions[footer_fourth] = Footer Fourth
+
+regions[footer_bottom] = Footer Bottom
+
+
+stylesheets[all][] = assets/css/mytheme.css
+stylesheets[all][] = assets/css/font-awesome.css
+stylesheets[all][] = assets/css/megamenu-demo.css
+stylesheets[all][] = assets/css/bootstrap-theme.css
+stylesheets[all][] = assets/css/bootstrap-theme.min.css
+stylesheets[all][] = assets/css/bootstrap.css
+stylesheets[all][] = assets/css/bootstrap.min.css
+
