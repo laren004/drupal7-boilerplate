@@ -30,7 +30,6 @@ regions[feature_second] = Feature Second
 regions[feature_third] = Feature Third
 
 
-
 regions[content_bottom_top] = Content Bottom Top
 regions[content_bottom_first] = Content Bottom First
 regions[content_bottom_second] = Content Bottom Second
