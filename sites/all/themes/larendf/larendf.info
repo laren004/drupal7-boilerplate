@@ -37,6 +37,7 @@ regions[content_bottom_second] = Content Bottom Second
 regions[content_bottom_third] = Content Bottom Third
 regions[content_bottom_fourth] = Content Bottom Fourth
 
+
 regions[promotion_first] = Promotion First
 regions[promotion_second] = Promotion Second
 regions[promotion_third] = Promotion Third
